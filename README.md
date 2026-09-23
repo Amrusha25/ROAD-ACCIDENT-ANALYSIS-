@@ -116,7 +116,9 @@ The .pbix file contains the complete Power BI report, data model, calculations, 
 
 ## Dashboard or Report 
 
-**Dashboard:** < a href="https://github.com/Amrusha25/ROAD-ACCIDENT-ANALYSIS-/blob/main/ROAD%20ACCIDENT%20ANALYSIS%20REPORT.png">Dashboard</a>
+**Dashboard:** ## 📊 Dashboard
+
+![Dashboard](https://github.com/Amrusha25/ROAD-ACCIDENT-ANALYSIS-/blob/main/ROAD%20ACCIDENT%20ANALYSIS%20REPORT.png)
 
 ### 📈 Key Features
 - Accident & casualty KPIs
