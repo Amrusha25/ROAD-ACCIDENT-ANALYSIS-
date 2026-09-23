@@ -110,11 +110,22 @@ The dashboard also displays corresponding **YOY values** for comparison.
 
 ## 📁 Project File
 
-**Power BI File:** `.pbix`
+**Power BI File:** <a href="https://github.com/Amrusha25/ROAD-ACCIDENT-ANALYSIS-/blob/main/ACCIDENT%20ANALYSIS%20POWERBI%20PROJECT.pbix">Project File</a>
 
-The `.pbix` file contains the complete Power BI report, data model, calculations, visuals, and interactive dashboard.
+The .pbix file contains the complete Power BI report, data model, calculations, visuals, and interactive dashboard.
 
+## Dashboard or Report 
+
+< a href="">Dashboard</a>
 ---
+### 📈 Key Features
+- Accident & casualty KPIs
+- Current Year vs Previous Year analysis
+- Accident severity analysis
+- Vehicle and road type analysis
+- Urban vs Rural comparison
+- Weather and light condition analysis
+- Interactive slicers and visuals
 
 ## 🚀 Conclusion
 
